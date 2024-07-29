@@ -1,1 +1,36 @@
-/* место для вашего кода */
+/* header */
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 136px 1fr;
+  align-items: center;
+  padding: 94px 50px 88px;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.header__links-list {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 31px;
+  list-style:circle;
+}
+
+.header__links-list-item_no-bullit {
+  list-style: none;
+}
+
+.header__link {
+  text-underline-offset: 3px;
+  letter-spacing: 0.01em;
+}
+
+.header__link_active {
+  text-decoration: none;
+}
+
+.address {
+  justify-self: end;
+  width: 240px;
+  font-style: normal;
+}
