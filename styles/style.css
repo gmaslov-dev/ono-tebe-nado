@@ -21,16 +21,19 @@
 }
 
 .header__link {
-  text-underline-offset: 3px;
   letter-spacing: 0.01em;
+  text-underline-offset: 3px;
 }
 
 .header__link_active {
   text-decoration: none;
 }
 
-.address {
+.header__address {
   justify-self: end;
+}
+
+.address {
   width: 240px;
   font-style: normal;
 }
