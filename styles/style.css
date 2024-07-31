@@ -4,7 +4,7 @@
   display: grid;
   grid-template-columns: 1fr 136px 1fr;
   align-items: center;
-  padding: 93px 50px 91px;
+  padding: 96px 50px 88px;
   font-size: 18px;
 }
 
@@ -154,7 +154,7 @@
   flex-direction: column;
   justify-content: space-between;
   height: 100%;
-  padding: 50px 40px 47px;
+  padding: 51px 40px 47px;
   color: #fff;
   line-height: 1.2;
 }
@@ -174,7 +174,7 @@
 .card__title {
   font-size: 22px;
   text-decoration: underline;
-  text-underline-offset: 4px;
+  text-underline-offset: 3px;
   text-transform: uppercase;
 }
 
