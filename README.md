@@ -44,5 +44,5 @@
 
 E-mail: gennadiy.dev@yandex.ru
 
-GitHub: [ссылка на профиль на GitHub](https://github.com/gmaslov-dev)
+GitHub: https://github.com/gmaslov-dev
 
